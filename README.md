@@ -1,33 +1,21 @@
 <h1 align="center">Xin chào, Tôi là Trường Giang</h1>
 <h3 align="center">Một lập trình viên đến từ Việt Nam </h3>
 
-- ✍ I'm a student of: [Ho Chi Minh Univesity Technology](https://www.hutech.edu.vn/) (HUTECH).
+- ⛪ Tôi là sinh viên của trường: [Ho Chi Minh Univesity Technology](https://www.hutech.edu.vn/) (HUTECH).
 
-- 🌱 I’m currently learning **MERN Stack.**
+- 🌱 Hiện tại tôi đang học: **C Language**
 
 
-## 📫 How to reach me:
-
-[![Join the chat at https://gitter.im/TienNHM/Github-Profile-Tutorial](https://badges.gitter.im/TienNHM/Github-Profile-Tutorial.svg)](https://gitter.im/TienNHM/Github-Profile-Tutorial?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
-
+## 📫 Bạn có thể liên hệ với tôi một trong các cách sau:
 <p align="center">
-  <a href="https://linkedin.com/in/tien-nhm" target="_blank">
-    <img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>
-  </a>
-  <a href="https://www.facebook.com/01.tien" alt="Facebook">
+  <a href="https://www.facebook.com/giangliken" alt="Facebook">
     <img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" target="_blank" />
   </a> 
-  <a href="https://github.com/TienNHM" alt="Github">
-    <img src="https://img.icons8.com/fluent/48/000000/github.png"/>
-  </a> 
-  <a href="https://www.youtube.com/channel/UCaRr1SjyHm61RrLY-DIBm1g" alt="Youtube channel" target="_blank" >
+  <a href="https://www.youtube.com/channel/UCwNp65s6FpR8In1sMcsDV4w" alt="Youtube channel" target="_blank" >
     <img src="https://img.icons8.com/fluent/48/000000/youtube-play.png"/>
   </a>
-  <a href="https://www.kaggle.com/nguyenhuynhminhtien" alt="Kaggle" target="_blank" >
-    <img src="https://img.icons8.com/windows/48/000000/kaggle.png"/>
-  </a>
-  <a href="mailto:tiennhm.it@gmail.com" alt="Email">
-    <img src="https://img.icons8.com/fluent/48/000000/mailing.png"/>
+  <a href="mailto:giangliken@gmail.com" alt="Email">
+  <img src="https://img.icons8.com/plasticine/48/000000/gmail.png"/>
   </a>
 </p>
 
