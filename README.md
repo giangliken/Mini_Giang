@@ -1,4 +1,3 @@
-## Wellcome!
 <h1 align="center">Xin chào, Tôi là Trường Giang</h1>
 <h3 align="center">Một lập trình viên đến từ Việt Nam </h3>
 
@@ -20,7 +19,8 @@
   </a>
 </p>
 
-## Bạn có thể chat trực tiếp với tôi tại:
+_**## Bạn có thể chat trực tiếp với tôi tại:**_
+
   <a href="https://m.me/giangliken" alt="Mesenger">
   <img src="https://img.icons8.com/fluency/48/000000/facebook-messenger--v2.png"/>
   </a>
