@@ -18,3 +18,8 @@
   <img src="https://img.icons8.com/plasticine/48/000000/gmail.png"/>
   </a>
 </p>
+
+## Bạn có thể chat trực tiếp với tôi tại:
+  <a href="https://m.me/giangliken" alt="Mesenger">
+  <img src="https://img.icons8.com/fluency/48/000000/facebook-messenger--v2.png"/>
+  </a>
