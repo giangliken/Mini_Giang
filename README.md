@@ -20,7 +20,8 @@
 </p>
 
 _**## Bạn có thể chat trực tiếp với tôi tại:**_
-
+<p align="center">
   <a href="https://m.me/giangliken" alt="Mesenger">
   <img src="https://img.icons8.com/fluency/48/000000/facebook-messenger--v2.png"/>
   </a>
+ </p>
